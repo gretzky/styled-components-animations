@@ -1,5 +1,14 @@
 const keyframes = require("styled-components").keyframes;
 
+export const rotate = keyframes`
+  from {
+    transform: rotate(0deg)
+  }
+  to {
+    transform: rotate(360deg)
+  }
+`;
+
 const flash = keyframes`
   0%,
   50%,
@@ -766,6 +775,7 @@ const dropDown = keyframes`
 `;
 
 module.exports = {
+  rotate,
   flash,
   shake,
   bounce,

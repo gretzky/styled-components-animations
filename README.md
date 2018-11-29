@@ -21,6 +21,7 @@ const Loader = styled.div`
 
 available keyframes:
 
+- rotate
 - flash
 - shake
 - bounce
