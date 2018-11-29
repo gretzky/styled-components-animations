@@ -1,0 +1,14 @@
+{
+  "name": "styled-components-animations",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Sara Federico <yo@sarafederi.co>",
+  "repository": "https://github.com/gretzky/styled-components-animations",
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^4.1.2"
+  },
+  "peerDependencies": {
+    "styled-components": "^4.1.2"
+  }
+}
